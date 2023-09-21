@@ -1,1 +1,1 @@
-# DataProcessingProgramming_202235432_SmartSecurity
+# 수업 시간에 했던 실습 저장용 공간입니다
